@@ -8,7 +8,7 @@ authors:
 - Jiaka
 
 
-date: 2021-08-11T23:40:35-04:00
+date: 2020-08-11T23:40:35-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,8 +21,8 @@ publishDate: 2021-08-11T23:40:35-04:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Juju Conference*
-publication_short: In *JC*
+#publication: In *Juju Conference*
+publication_short: __We don't need a summary__
 
 abstract: This is just a test paper.
 
@@ -30,7 +30,7 @@ abstract: This is just a test paper.
 summary: We don't need a summary
 
 tags: []
-categories: []
+categories: progress
 featured: true
 
 # Custom links (optional).
