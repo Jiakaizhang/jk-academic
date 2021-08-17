@@ -6,34 +6,38 @@ title: Jiakai Zhang
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: The Graduate Center, CUNY
+  url: https://www.gc.cuny.edu/Home
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Ph.D. candidate in economics at CUNY Graduate Center, adjunct lecturer at the Brooklyn College and Hunter college, CUNY. My research interests include Public Finance, Urban Economics and Chinese Economy.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Public Finance
+- Macroeconomics
+- Urban Economics
+- Chinese Economy
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Economics
+    institution: CUNY Graduate Center
+    year: 2022
+  - course: M.Phil. in Economics
+    institution: CUNY Graduate Center
+    year: 2021
+  - course: M.A. in Economics
+    institution: SUNY Binghamton University
+    year: 2016
+  - course: B.A. in Economics
+    institution: Northwestern University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -54,7 +58,7 @@ social:
   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: www.linkedin.com/in/jiakai-zhang-cunygc2016
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,7 +74,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. candidate in economics at CUNY Graduate Center, and a visiting student at NBER. adjunct lecturer at the Brooklyn College and Hunter College, CUNY. My research interests include Public Finance, Urban Economics and Chinese Economy.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
