@@ -1,17 +1,17 @@
 ---
-title: "An example conference paper"
+title: "Economic Growth, Fiscal Inequality and Fiscal Decentralization: Evidence from China"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -23,14 +23,14 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-categories: progress
+publication_types: ["3"]
+categories: working
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper investigates the impact of inequality in the geographic distribution of fiscal resources on regional economic growth under fiscal decentralization policy in the context of China's experience, using panel data for 28 provinces over the period 1987–2010. In the recent past, the structure of decentralized government in China has undergone two significant fiscal reforms "fiscal contract responsibility system" (FRS) in 1985-1993, and "Tax Sharing System" (TSS) in 1994. I find that there are different impacts of overall fiscal inequality on economic growth pre- and post-1994. Second, I show that fiscal decentralization could improve regional growth in China.  Finally, I examine the impact of extra-budgetary funds on the reduction of the gaps between the economic growth of rich and poor provinces.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,7 +38,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
