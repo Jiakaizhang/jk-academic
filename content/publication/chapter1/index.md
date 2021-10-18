@@ -13,7 +13,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,8 +27,8 @@ publication_types: ["3"]
 categories: working
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *76th Annual Congress of the IIPF*
+publication_short: In *76th Annual Congress of the IIPF*
 
 abstract: This paper investigates the impact of inequality in the geographic distribution of fiscal resources on regional economic growth under fiscal decentralization policy in the context of China's experience, using panel data for 28 provinces over the period 1987–2010. In the recent past, the structure of decentralized government in China has undergone two significant fiscal reforms "fiscal contract responsibility system" (FRS) in 1985-1993, and "Tax Sharing System" (TSS) in 1994. I find that there are different impacts of overall fiscal inequality on economic growth pre- and post-1994. Second, I show that fiscal decentralization could improve regional growth in China.  Finally, I examine the impact of extra-budgetary funds on the reduction of the gaps between the economic growth of rich and poor provinces.
 
@@ -56,33 +56,23 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+#projects:
+#- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

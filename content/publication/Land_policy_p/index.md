@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Economic Growth, Fiscal Inequality and Fiscal
-Decentralization"
+title: "How does land policy affects the migration?"
 authors:
-- Jiakai
-- Jiaka
+- Meng-ting Chen
+- admin
 
 
-date: 2020-08-11T23:40:35-04:00
+
+date: 2020-10-11T23:40:35-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-08-11T23:40:35-04:00
+publishDate: 2021-10-11T23:40:35-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,16 +22,16 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Juju Conference*
-publication_short: __We don't need a summary__
+publication_short:
 
-abstract: This is just a test paper.
+abstract:
 
 # Summary. An optional shortened abstract.
-summary: We don't need a summary
+summary:
 
 tags: []
 categories: progress
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
