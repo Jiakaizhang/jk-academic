@@ -1,5 +1,5 @@
 ---
-title: "The effect of population aging on pension enforcement: Do firms bear the burden"
+title: "The effect of population aging on pension enforcement: Do firms bear the burden?"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

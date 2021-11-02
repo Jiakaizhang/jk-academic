@@ -14,7 +14,7 @@ organizations:
   url: https://www.gc.cuny.edu/Home
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate in economics at CUNY Graduate Center, adjunct lecturer at the Brooklyn College and Hunter college, CUNY. My research interests include Public Finance, Urban Economics and Chinese Economy.
+bio: I am a Ph.D. candidate in economics at CUNY Graduate Center, and a visiting student at NBER. I am also an adjunct lecturer at the Brooklyn College, Fordham University and Hunter College. My research interests include Public Finance, Urban Economics and the Chinese Economy.
 
 # Interests to show in About widget
 interests:
@@ -73,9 +73,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+ <br />
+ Welcome to my website!
+<br />
+<br />
+I am a Ph.D. candidate in economics at CUNY Graduate Center, and a visiting student at NBER. I am also an adjunct lecturer at the Brooklyn College, Fordham University and Hunter College. My research interests include Public Finance, Urban Economics and the Chinese Economy.
 
-I am a Ph.D. candidate in economics at CUNY Graduate Center, and a visiting student at NBER. Adjunct lecturer at the Brooklyn College and Hunter College, CUNY. My research interests include Public Finance, Urban Economics and the Chinese Economy.
-
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/cv.pdf" "newtab" >}}here{{< /staticref >}}.

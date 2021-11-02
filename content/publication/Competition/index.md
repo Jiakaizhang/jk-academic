@@ -33,7 +33,7 @@ categories: working
 
 # Publication name and optional abbreviated publication name.
 publication: In *57th MVEA Virtual Conference 2020*, *96th WEAI Annual Conference 2021*, *77th Annual Congress of the IIPF 2021*, *91th SEA Annual Conference 2021*.
-publication_short: Presentations&#58; *57th MVEA Virtual Conference 2020*, *96th WEAI Annual Conference 2021*, *77th Annual Congress of the IIPF 2021*, *91th SEA Annual Conference 2021*. **Draft available upon request**
+publication_short: Presentations&#58; *57th MVEA Virtual Conference 2020*, *96th WEAI Annual Conference 2021*, *77th Annual Congress of the IIPF 2021*, *91th SEA Annual Conference 2021*, and *CUNY Graduate Center 2021*. **Draft available upon request**
 
 abstract: This paper adds to the literature by examining fiscal competition and deficit financing by local governments in a developing country, China.   We examine a unique revenue source in China, land-use premiums (a type of property tax), in a panel dataset consolidated at the prefectural level from 2006 to 2016. Our results indicate that fiscal competition in land-use premiums exists and is stronger among wealthier than poorer local governments, a result that supports the view of Cai and Treisman (2005) that competition among asymmetrically endowed regions can lead to less discipline.  Moreover, we find higher local deficits are associated with lower land-use premiums, a result that suggests that the local government does not fill any fiscal gap with own revenues.
 

@@ -22,28 +22,53 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Adjunct Instructor
+    company: Hunter College, CUNY
+    company_url: 'http://econ.hunter.cuny.edu/adjuncts/'
+    #company_logo: org-gc
+    location: New York
+    date_start: '2021-08-27'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Undergradute level:
 
-        * Analysing
-        * Modelling
-        * Deploying
+        * Public Finance
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+
+  - title: Adjunct Instructor
+    company: Brooklyn College, CUNY
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    #company_logo: org-x
+    location: New York
+    date_start: '2018-01-21'
+    date_end: ''
+    description: |2-
+        Undergradute level:
+
+        * Elementary Microeconomics
+        * Elementary Macroeconomics
+        * Statistics I  
+
+        Gradute level:
+
+        * Econometrics
+        * Advanced Econometrics
+
+
+
+  - title: Adjunct Instructor
+    company: Fordham University
+    company_url: ''
+          #company_logo: org-x
+    location: New York
+    date_start: '2020-09-01'
+    date_end: '2021-05-15'
+    description: |2-
+         Undergradute level:
+
+         * Statistics I
+         * Statistical Decision Making  
+
 
 design:
   columns: '2'
