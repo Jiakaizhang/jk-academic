@@ -32,8 +32,8 @@ categories: working
 
 
 # Publication name and optional abbreviated publication name.
-publication: In *96th WEAI Virtual International Conference, 85th MEA annual conference*.  **Draft available upon request**
-publication_short: In *96th WEAI Virtual International Conference, 85th MEA annual conference*.  **Draft available upon request**
+publication: In *96th WEAI Virtual International Conference 2021*, *85th MEA annual conference 2021*
+publication_short: Presentations&#58; *96th WEAI Virtual International Conference 2021*, *85th MEA annual conference 2021*.  **Draft available upon request**
 
 abstract: This paper draws upon a quasi-experiment in China's regional administrative hierarchy to investigate the effect of a city-upgrading policy. This policy upgrades prefecture-level cities to municipalities with the provincial administrative level. Chongqing is the only city recently designated as the municipality in 1997. This paper adopts the synthetic control method and finds that city-upgrading policy increased Chongqing's GDP by more than 40\% on average in the following four years since 1997. In addition, we examine the direct and spillover effects of the municipalities on various aspects, including economic growth, foreign direct investment, urbanization, local government revenue, and productivity.
 

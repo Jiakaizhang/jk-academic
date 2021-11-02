@@ -32,8 +32,8 @@ categories: working
 
 
 # Publication name and optional abbreviated publication name.
-publication: In *58th MVEA Virtual Conference*.  **Draft available upon request**
-publication_short: In *58th MVEA Virtual Conference*.  **Draft available upon request**
+publication: In *58th MVEA Virtual Conference 2021*. 
+publication_short: Presentations&#58; *58th MVEA Virtual Conference 2021*. **Draft available upon request**
 
 abstract: Excess input VAT cannot be refunded in China, which causes a heavy financial burden on the firms. Using China National Tax Survey Database (NTSD), this paper explores the relation between input VAT credits carryovers and corporate income tax avoidance behavior. We find that the ratio of input VAT credit carryovers (IVCC) scalded cash flow is negatively associated with effective corporate income tax rates (ETRs). In addition, we find that the tax avoidance activities of firms can be carried out in two ways. First, firms could underreport the profits. Second, firms increase the cost that can be deducted before tax. Finally, in order to explore the causal effect of input VAT credits carryovers on the cooperate income tax avoidance, we investigated the impact of recent VAT reform that allows VAT refunds for excess input VAT credits in 18 industries in 2018,  using the China Stock Market $\&$ Accounting Research Database (CSMAR). The results indicate that refunding for excess input VAT credits could improve corporate tax compliance.
 

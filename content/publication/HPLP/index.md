@@ -31,8 +31,8 @@ categories: working
 
 
 # Publication name and optional abbreviated publication name.
-publication: Revise and Resubmit *Regional Science and Urban Economics*
-publication_short: Revise and Resubmit *Regional Science and Urban Economics*
+publication: In *15th Economics Graduate Student Conference (EGSC) 2020*, *90th SEA  Annual Conference 2020*. Revise and Resubmit *Regional Science and Urban Economics*
+publication_short: Presentations&#58; *15th Economics Graduate Student Conference (EGSC) 2020*, *90th SEA  Annual Conference 2020*. Revise and Resubmit *Regional Science and Urban Economics*
 
 abstract: Using a novel source of quasi-experimental variation in the revenue of local governments from housing purchase limits policy (HPLP), we investigate the mechanism of “rent-tax substitution” in the period from 2008 to 2015. “Rent-tax substitution” refers to the substitute relationship between the tax revenue and land lease revenue (from renting land-use rights) of local governments in China. Our findings indicate that the implementation of the HPLP reduced land lease revenue and increased tax revenue. Overall, the HPLP decreased local governments’ total revenue. Specifically, in cities implementing HPLP, the proportion of land lease revenue in total revenue fell by 12.7%, while the proportion of tax revenue rose by 8.3%. We also examine how the HPLP affects firms. The results show that the HPLP increased the tax burden of local firms, particularly the burden arising from corporate income tax (CIT) and business tax (BT). Finally, the HPLP negatively influenced firms regarding investment, employment, and wages.
 

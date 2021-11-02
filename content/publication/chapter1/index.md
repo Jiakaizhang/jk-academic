@@ -28,12 +28,12 @@ categories: working
 
 # Publication name and optional abbreviated publication name.
 publication: In *76th Annual Congress of the IIPF*
-publication_short: In *76th Annual Congress of the IIPF*
+publication_short: Presentations&#58; *76th Annual Congress of the IIPF 2020*
 
 abstract: This paper investigates the impact of inequality in the geographic distribution of fiscal resources on regional economic growth under fiscal decentralization policy in the context of China's experience, using panel data for 28 provinces over the period 1987–2010. In the recent past, the structure of decentralized government in China has undergone two significant fiscal reforms "fiscal contract responsibility system" (FRS) in 1985-1993, and "Tax Sharing System" (TSS) in 1994. I find that there are different impacts of overall fiscal inequality on economic growth pre- and post-1994. Second, I show that fiscal decentralization could improve regional growth in China.  Finally, I examine the impact of extra-budgetary funds on the reduction of the gaps between the economic growth of rich and poor provinces.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper investigates the impact of inequality in the geographic distribution of fiscal resources on regional economic growth under fiscal decentralization policy in the context of China's experience.
 
 tags: []
 

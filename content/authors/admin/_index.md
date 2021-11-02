@@ -49,16 +49,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/JiakaiZhang2
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=rkiM880AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Jiakaizhang
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/jiakai-zhang-cunygc2016
+  link: https://www.linkedin.com/in/jiakai-zhang-cunygc2016/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -74,8 +74,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. candidate in economics at CUNY Graduate Center, and a visiting student at NBER. adjunct lecturer at the Brooklyn College and Hunter College, CUNY. My research interests include Public Finance, Urban Economics and Chinese Economy.
+I am a Ph.D. candidate in economics at CUNY Graduate Center, and a visiting student at NBER. Adjunct lecturer at the Brooklyn College and Hunter College, CUNY. My research interests include Public Finance, Urban Economics and the Chinese Economy.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
