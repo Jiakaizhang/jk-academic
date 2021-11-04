@@ -1,5 +1,5 @@
 ---
-title: "Rent-tax substitution and its impact on firms: Evidence from housing purchase limits policy in China"
+title: "Rent-tax Substitution and Its Impact on Firms: Evidence from Housing Purchase Limits Policy in China"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
