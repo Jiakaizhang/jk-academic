@@ -33,8 +33,8 @@ categories: working
 
 
 # Publication name and optional abbreviated publication name.
-publication: .**Submitted** *Cities*
-publication_short: .**Submitted** *Cities*
+publication: "**Submitted** *Cities*"
+publication_short: "**Submitted** *Cities*"
 
 abstract: The aging population problem caused by low intention to give birth has already appeared in China, and it will become more severe in the future. Even if the two-child policy has been gradually implemented, there is still no significant change in the intention to have more children because the cost of living is very high for most households in China. This paper first investigates whether the public expenditures of local governments could significantly affect an individual's fertility intention of a second child or more in China. Our results show that the total government expenditure overall could increase fertility intention. Quantitatively, increasing 10,000 yuan per capita government expenditure would lead to fertility intention rising from 2.357 to 3.407 kids. In addition, Various specific government expenditures also could increase the fertility intention, except for social security expenditures. Finally, we explore the effect heterogeneity of public spending on fertility intention in different aspects. The government's role is still essential for an individual's fertility intention, but the costs and expenses borne by the government to increase the fertility intention will also be not small.
 
