@@ -15,7 +15,7 @@ author_notes:
 - ""
 - "Corresponding author"
 
-date: "2021-06-10T00:00:00Z"
+date: "2021-10-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +32,7 @@ categories: working
 
 # Publication name and optional abbreviated publication name.
 publication: Revise and Resubmit *Economic Inquiry*
-publication_short: Revise and Resubmit *Economic Inquiry*
+publication_short: .**Revise and Resubmit** *Economic Inquiry*
 
 abstract: Population aging is widely assumed to have detrimental effects on economic development, especially through an increase in social security burden. This paper starts from the observations that the pension contribution evasion of firms was prevalent in China because local governments lower the pension enforcement under the current pension system. We investigate how the local governments at the city level respond to the population aging and the impact of the population aging on the firm pension burden using administrative data over the period 2008-2015. We present three findings. First, population aging increases the pension contribution burden of firms by enhancing pension enforcement. Second, fiscal pressure is the channel through which population aging affects the pension enforcement of firms. Lastly, the pension administration system in China could significantly affect the net impact of population aging on the pension burden.
 

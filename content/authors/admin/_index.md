@@ -36,7 +36,7 @@ education:
     institution: SUNY Binghamton University
     year: 2016
   - course: B.A. in Economics
-    institution: Northwestern University
+    institution: Northwest University, China
     year: 2014
 
 # Social/Academic Networking
@@ -78,5 +78,7 @@ highlight_name: false
 <br />
 <br />
 I am a Ph.D. candidate in economics at CUNY Graduate Center, and a visiting student at NBER. I am also an adjunct lecturer at the Brooklyn College, Fordham University and Hunter College. My research interests include Public Finance, Urban Economics and the Chinese Economy.
+
+I am on the job market for AY 2021-2022. I am available for interviews at the AEA meetings.
 
 {{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/cv.pdf" "newtab" >}}here{{< /staticref >}}.
