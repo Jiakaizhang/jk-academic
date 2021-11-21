@@ -1,14 +1,13 @@
 ---
-title: "Judicial Independence and Corporate Investment: Evidence from Judicial De-localization Reform in
-China"
+title: "Does Elite Capture Matter? Local Political Elites and the Targeted Poverty Alleviation Strategy in China"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Renjie Zhao
+- Jie Tang
+- Xia Li
 - admin
-
 
 
 
@@ -16,6 +15,7 @@ authors:
 author_notes:
 - ""
 - ""
+- "Corresponding author"
 
 date: "2021-10-25T00:00:00Z"
 doi: ""
@@ -33,13 +33,13 @@ categories: working
 
 
 # Publication name and optional abbreviated publication name.
-publication: "**Revise and Resubmit** at *China Economic Quarterly (in Chinese)*"
-publication_short: "**Revise and Resubmit** at *China Economic Quarterly (in Chinese)*"
+publication: "**Under Review** *World Development*"
+publication_short: "**Under Review** *World Development*"
 
-abstract:
+abstract: China implemented a nationwide poverty alleviation campaign, the targeted poverty alleviation (TPA) strategy, striving to achieve the national goal of completely eradicating poverty by the end of 2020. However, the capture of political elites is considered an essential obstacle to achieving this goal. This paper investigates whether political elite capture exists in TPA  based on the specific targeting strategy, using the "Thousand-Person Hundred-Village" survey dataset in 2017. Overall, TPA is not subject to political elite capture in practice and deliberately excludes political elites from the strategy. We present three main findings. First, the probability of political elite households registering into the national poverty database (jiandanglika) under TPA is approximately 12.5% lower than non-elite households. Second, we found that the lower registration probability of political elite households is mainly reflected in the households with committee members in the village. Third, political elite connections increase the likelihood of political elite households receiving government transfers, suggesting that political elite capture still exists in other public welfare programs.
 
 # Summary. An optional shortened abstract.
-summary:
+summary:  This paper investigates whether political elite capture exists in TPA  based on the specific targeting strategy, using the "Thousand-Person Hundred-Village" survey dataset in 2017. Overall, TPA is not subject to political elite capture in practice and deliberately excludes political elites from the strategy.
 
 tags: []
 

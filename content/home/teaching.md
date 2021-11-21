@@ -30,7 +30,7 @@ experience:
     date_start: '2021-08-27'
     date_end: ''
     description: |2-
-        Undergradute level:
+        Undergraduate level:
 
         * Public Finance
 
@@ -43,13 +43,13 @@ experience:
     date_start: '2018-01-21'
     date_end: ''
     description: |2-
-        Undergradute level:
+        Undergraduate level:
 
         * Elementary Microeconomics
         * Elementary Macroeconomics
         * Statistics I  
 
-        Gradute level:
+        Graduate level:
 
         * Econometrics
         * Advanced Econometrics
@@ -64,7 +64,7 @@ experience:
     date_start: '2020-09-01'
     date_end: '2021-05-15'
     description: |2-
-         Undergradute level:
+         Undergraduate level:
 
          * Statistics I
          * Statistical Decision Making  
