@@ -1,14 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "How does land policy affects the migration?"
+title: "Fiscal Decentralization and Local Economic Growth"
 authors:
-- Meng-ting Chen
 - admin
 
 
 
-date: 2020-10-11T23:40:35-04:00
+date: 2021-10-11T23:40:35-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +30,7 @@ summary:
 
 tags: []
 categories: progress
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
