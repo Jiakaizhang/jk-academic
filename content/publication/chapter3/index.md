@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Fiscal Decentralization and Local Economic Growth"
+title: "Land policy"
 authors:
 - admin
 
