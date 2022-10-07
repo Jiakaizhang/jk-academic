@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Population Aging, Pension Enforcement and Firm Investment"
+title: "Pension Enforcement and Firm Investment"
 authors:
 - Meng-Ting Chen
 - admin
