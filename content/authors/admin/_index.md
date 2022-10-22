@@ -70,7 +70,7 @@ social:
   link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jiakai.zhang@nmt.edu"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
