@@ -5,8 +5,8 @@ title: "Do Direct-administered municipalities work? Evidence from Chongqing muni
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
 - Meng-ting Chen
+- admin
 
 
 
@@ -14,7 +14,7 @@ authors:
 # Author notes (optional)
 author_notes:
 - ""
-- ""
+- "Corresponding author"
 
 date: "2020-10-25T00:00:00Z"
 doi: ""
@@ -32,7 +32,7 @@ categories: working
 
 
 # Publication name and optional abbreviated publication name.
-publication: In *96th WEAI Virtual International Conference 2021*, *85th MEA annual conference 2021*
+publication: In *96th WEAI Virtual International Conference 2021*, *85th MEA annual conference 2021*, *100 Years of Economic Development Conference at Cornell University 2022*
 publication_short: Presentations&#58; *96th WEAI Virtual International Conference 2021*, and *85th MEA annual conference 2021*.  **Draft available upon request**
 
 abstract: This paper draws upon a quasi-experiment in China's regional administrative hierarchy to investigate the effect of a city-upgrading policy. This policy upgrades prefecture-level cities to municipalities with the provincial administrative level. Chongqing is the only city recently designated as the municipality in 1997. This paper adopts the synthetic control method and finds that city-upgrading policy increased Chongqing's GDP by more than 40\% on average in the following four years since 1997. In addition, we examine the direct and spillover effects of the municipalities on various aspects, including economic growth, foreign direct investment, urbanization, local government revenue, and productivity.

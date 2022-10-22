@@ -14,13 +14,15 @@ organizations:
   url: https://www.gc.cuny.edu/Home
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate in economics at CUNY Graduate Center, and a visiting student at NBER. I am also an adjunct lecturer at the Brooklyn College, Fordham University and Hunter College. My research interests include Public Finance, Urban Economics and the Chinese Economy.
+bio: Hi, welcome to my website!
+
+I am an Assistant Professor of Management at New Mexico Tech. I eared my Ph.D. in economics at CUNY Graduate Center. I was a visiting student at NBER and an adjunct lecturer at the Brooklyn College, Fordham University and Hunter College. My research interests include Public Economics, Regional and Urban Economics and the Chinese Economy.
 
 # Interests to show in About widget
 interests:
-- Public Finance
-- Macroeconomics
-- Urban Economics
+- Public Economics
+- Regional and Urban Economics
+- Applied Econometrics
 - Chinese Economy
 
 # Education to show in About widget
@@ -68,17 +70,17 @@ social:
   link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jiakai.zhang@nmt.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
  <br />
- Welcome to my website!
+Hi, welcome to my website!
 <br />
 <br />
-I am a Ph.D. candidate in economics at CUNY Graduate Center, and a visiting student at NBER. I am also an adjunct lecturer at the Brooklyn College, Fordham University and Hunter College. My research interests include Public Finance, Urban Economics and the Chinese Economy.
+I am an Assistant Professor of Management at New Mexico Tech.
 
-I am on the job market for AY 2021-2022. I am available for interviews at the AEA meetings.
+I eared my Ph.D. in economics at CUNY Graduate Center. I was a visiting student at NBER and an adjunct lecturer at the Brooklyn College, Fordham University and Hunter College. My research interests include Public Economics, Regional and Urban Economics and the Chinese Economy.
 
 {{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/cv.pdf" "newtab" >}}here{{< /staticref >}}.
