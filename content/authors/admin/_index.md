@@ -14,10 +14,7 @@ organizations:
   url: https://www.gc.cuny.edu/Home
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, welcome to my website!
-
-I am an Assistant Professor of Management at New Mexico Tech. I eared my Ph.D. in economics at CUNY Graduate Center. I was a visiting student at NBER and an adjunct lecturer at the Brooklyn College, Fordham University and Hunter College. My research interests include Public Economics, Regional and Urban Economics and the Chinese Economy.
-
+bio: Hi, welcome to my website! I am an Assistant Professor of Management at New Mexico Tech. I eared my Ph.D. in economics at CUNY Graduate Center. I was a visiting student at NBER and an adjunct lecturer at the Brooklyn College, Fordham University and Hunter College. My research interests include Public Economics, Regional and Urban Economics and the Chinese Economy.
 # Interests to show in About widget
 interests:
 - Public Economics
